@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyJDBCProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyJDBCProject_jar</output-path>
+    <root id="archive" name="MyJDBCProject.jar">
+      <element id="module-output" name="MyJDBCProject" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../postgresql-42.7.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
